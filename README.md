@@ -17,3 +17,8 @@ To get my partners file
 1) git pull
 2) open the new file and see what is in it!
 3) go to github and make sure both of our changes are online
+
+
+John Hurtubise:
+All of the process were the exact same except I used "nano" as the text editor
+and I checked git status after my commit. 
