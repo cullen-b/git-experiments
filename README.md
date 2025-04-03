@@ -22,3 +22,16 @@ To get my partners file
 John Hurtubise:
 All of the process were the exact same except I used "nano" as the text editor
 and I checked git status after my commit. 
+
+## Part 2
+
+1) Used "git branch johnBranch" to create new branch
+2) touch <filename>.txt to create new text file
+3) nano <filename>.txt to edit file
+4) Used "git checkout johnBranch" to move to new branch
+5) git add <filename>.txt to start tracking file 
+6) git commit -m "<message>" to commit changes
+7) "git push --set-upstream origin johnBranch" to connect branch to origin branch
+	and push changes.
+8) Used gitHub to create new pull request.
+9) Added notes to readme and pushed to origin.
