@@ -42,3 +42,6 @@ Cullen - everything was the same for me!
 1) I changed johnNewFile.txt
 2) then added, commited, and pushed
 3) Now if we go and edit johnNewFile.txt before pulling we will have a merge conflict!
+4) "git config pull.rebase false" to merge the files
+5) then "git pull" to merge
+6) "git push" to push the merge to github
