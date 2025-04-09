@@ -45,3 +45,13 @@ Cullen - everything was the same for me!
 4) "git config pull.rebase false" to merge the files
 5) then "git pull" to merge
 6) "git push" to push the merge to github
+
+John Hurtubise
+1) I added a new file conflictFile.txt with inital text and added, 
+committed, then pushed.
+2) I then made changes localy without pushing them to gitHub. 
+3) Now if cullen makes changes and I try to pull it will cause a conflict
+4) Now to fix the conflict we have to git merge and manually fix the 
+merge conflicts
+
+ 
